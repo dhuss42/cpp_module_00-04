@@ -1,7 +1,7 @@
 # c++ module 00-04
 An overview of the first cpp module at 42 
 
-## [c++00](https://github.com/dhuss42/cpp00)  
+## [c++ 00](https://github.com/dhuss42/cpp00)  
 Namespaces, classes, member functions, stdio streams,
 initialization lists, static, const, and some other basic
 stuf  
