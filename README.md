@@ -2,7 +2,9 @@
 An overview of the first cpp module at 42 
 
 ## [c++00](https://github.com/dhuss42/cpp00)  
-
+Namespaces, classes, member functions, stdio streams,
+initialization lists, static, const, and some other basic
+stuf  
 ## c++ 01
 [cpp01](https://github.com/dhuss42/cpp01)  
 
